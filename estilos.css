@@ -1,0 +1,51 @@
+*
+.container-fluid {
+    background-color: white;
+    text-align: left;
+}
+.nav-item{
+   text-align: center;
+   margin-left: none ;
+   padding-left: none ;
+}
+.nav-link {
+    text-align: left  ;
+    font-size: large;
+    color: green;
+    align-content: center;
+    text-align: center;
+}
+.container {
+    background-color:rgb(241, 240, 239);
+}
+.alert-primary {
+    text-align: center;
+}
+h2{
+    background-color: green;
+    color: white ; 
+    height: 60px ;
+    padding-top: 10px ;
+}
+.row {
+    padding-left: 5% ;
+    padding-right: 5% ;
+}
+.footer-copyright {
+    margin-left: 5% ;
+}
+.px-md-3 {
+background-color: rgb(231, 242, 234);
+}
+.alert-heading {
+    text-align: center;
+}
+.mb-0{
+    text-align: center;
+}
+.form-label {
+    padding-left: 2%;
+}
+.btn {
+    margin-left: 2% ;
+}
